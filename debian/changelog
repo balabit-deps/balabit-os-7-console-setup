@@ -1,3 +1,9 @@
+console-setup (1.178ubuntu2.3bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Tue, 07 Aug 2018 18:49:37 +0200
+
 console-setup (1.178ubuntu2.3) bionic; urgency=medium
 
   * Revert changes from 1.178ubuntu2.2 and 1.178ubuntu2.1 as those seem to
