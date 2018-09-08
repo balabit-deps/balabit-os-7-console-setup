@@ -1,3 +1,9 @@
+console-setup (1.178ubuntu2.7) bionic; urgency=medium
+
+  * keyboard-configuration.config: Fix exit/return thinko (LP: #1788597)
+
+ -- Adam Conrad <adconrad@ubuntu.com>  Thu, 23 Aug 2018 16:32:45 -0600
+
 console-setup (1.178ubuntu2.6bb1) bionic; urgency=medium
 
   * Balabit patched version
