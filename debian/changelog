@@ -1,3 +1,10 @@
+console-setup (1.178ubuntu2.9) bionic; urgency=medium
+
+  * Call setupcon --force only when debian-installer is active
+    and always redirect output to /dev/null to not block. (LP: #520546)
+
+ -- Balint Reczey <rbalint@ubuntu.com>  Tue, 23 Apr 2019 14:04:14 +0200
+
 console-setup (1.178ubuntu2.8bb1) bionic; urgency=medium
 
   * Balabit patched version
