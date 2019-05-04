@@ -1,3 +1,9 @@
+console-setup (1.178ubuntu2.9bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 04 May 2019 02:23:04 +0000
+
 console-setup (1.178ubuntu2.9) bionic; urgency=medium
 
   * Call setupcon --force only when debian-installer is active
